@@ -7,5 +7,5 @@ STATE = SP
 # BOAS PRATICAS
 # o padrao de nomes deve ser snake case exemplo: nome_proprio
 # escolher nomes sugestivos
-# nome de constantes todo em  maiusculos
+# nome de constantes todo em maiusculos
 
