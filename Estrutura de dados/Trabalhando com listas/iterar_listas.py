@@ -5,4 +5,8 @@ for carro in carros:
 
 
 for indice, carro in enumerate(carros):
-    print(f"{indice}: {carro}")
+    print(f"{indice} = {carro}")
+
+
+
+   
